@@ -1,0 +1,798 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.planks",
+        "icon": {
+            "id": 5
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.walls",
+        "icon": {
+            "id": 139
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.fence",
+        "icon": {
+            "id": 85
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.fenceGate",
+        "icon": {
+            "id": 107
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stairs",
+        "icon": {
+            "id": 67
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.door",
+        "icon": {
+            "id": 324
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.trapdoor",
+        "icon": {
+            "id": 96
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glass",
+        "icon": {
+            "id": 20
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glassPane",
+        "icon": {
+            "id": 102
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.slab",
+        "icon": {
+            "id": 44
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stoneBrick",
+        "icon": {
+            "id": 98
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.sandstone",
+        "icon": {
+            "id": 24
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.copper",
+        "icon": {
+            "id": -340
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.wool",
+        "icon": {
+            "id": 35
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.woolCarpet",
+        "icon": {
+            "id": 171
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.concretePowder",
+        "icon": {
+            "id": 237
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.concrete",
+        "icon": {
+            "id": 236
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.stainedClay",
+        "icon": {
+            "id": 172
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.glazedTerracotta",
+        "icon": {
+            "id": 220
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "itemGroup.name.element",
+        "icon": {
+            "id": -12
+        }
+    },
+    {
+        "category_id": 1,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.ore",
+        "icon": {
+            "id": 15
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.stone",
+        "icon": {
+            "id": 1
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.log",
+        "icon": {
+            "id": 17
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.wood",
+        "icon": {
+            "id": -212
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.leaves",
+        "icon": {
+            "id": 18
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.sapling",
+        "icon": {
+            "id": 6
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.seed",
+        "icon": {
+            "id": 295
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.crop",
+        "icon": {
+            "id": 296
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.grass",
+        "icon": {
+            "id": 31,
+            "damage": 3
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.coral_decorations",
+        "icon": {
+            "id": -131,
+            "damage": 3
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.flower",
+        "icon": {
+            "id": 37
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.dye",
+        "icon": {
+            "id": 351,
+            "damage": 11
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.rawFood",
+        "icon": {
+            "id": 365
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.mushroom",
+        "icon": {
+            "id": 39
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.monsterStoneEgg",
+        "icon": {
+            "id": 97
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.mobEgg",
+        "icon": {
+            "id": 383,
+            "damage": 10
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.coral",
+        "icon": {
+            "id": -132
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "itemGroup.name.sculk",
+        "icon": {
+            "id": -458
+        }
+    },
+    {
+        "category_id": 2,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.helmet",
+        "icon": {
+            "id": 298
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.chestplate",
+        "icon": {
+            "id": 299
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.leggings",
+        "icon": {
+            "id": 300
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.boots",
+        "icon": {
+            "id": 301
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.sword",
+        "icon": {
+            "id": 268
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.axe",
+        "icon": {
+            "id": 271
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.pickaxe",
+        "icon": {
+            "id": 270
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.shovel",
+        "icon": {
+            "id": 269
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.hoe",
+        "icon": {
+            "id": 290
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.arrow",
+        "icon": {
+            "id": 262
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.cookedFood",
+        "icon": {
+            "id": 366
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.miscFood",
+        "icon": {
+            "id": 297
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.goatHorn",
+        "icon": {
+            "id": 761
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.bundles",
+        "icon": {
+            "id": 891
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.horseArmor",
+        "icon": {
+            "id": 416
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.potion",
+        "icon": {
+            "id": 373
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.splashPotion",
+        "icon": {
+            "id": 438
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.lingeringPotion",
+        "icon": {
+            "id": 441
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "itemGroup.name.ominousBottle",
+        "icon": {
+            "id": 888
+        }
+    },
+    {
+        "category_id": 3,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.bed",
+        "icon": {
+            "id": 355
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.candles",
+        "icon": {
+            "id": -412
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.anvil",
+        "icon": {
+            "id": 145
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.chest",
+        "icon": {
+            "id": 54
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.shulkerBox",
+        "icon": {
+            "id": 205
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.record",
+        "icon": {
+            "id": 500
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.sign",
+        "icon": {
+            "id": 323
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.hanging_sign",
+        "icon": {
+            "id": -524
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.skull",
+        "icon": {
+            "id": 397,
+            "damage": 4
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.enchantedBook",
+        "icon": {
+            "id": 403
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.boat",
+        "icon": {
+            "id": 333
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.chestboat",
+        "icon": {
+            "id": 762
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.rail",
+        "icon": {
+            "id": 66
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.minecart",
+        "icon": {
+            "id": 328
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.buttons",
+        "icon": {
+            "id": 143
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.pressurePlate",
+        "icon": {
+            "id": 72
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.banner",
+        "icon": {
+            "id": 446
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.banner_pattern",
+        "icon": {
+            "id": 434
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.potterySherds",
+        "icon": {
+            "id": 650
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.smithing_templates",
+        "icon": {
+            "id": 802
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.firework",
+        "icon": {
+            "id": 401
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "itemGroup.name.fireworkStars",
+        "icon": {
+            "id": 402
+        }
+    },
+    {
+        "category_id": 4,
+        "category_name": "",
+        "icon": {
+            "id": 0
+        }
+    }
+]
