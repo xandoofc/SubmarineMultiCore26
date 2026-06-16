@@ -1,32 +1,32 @@
 # Submarine MultiCore 26 — WhiteCore
 
-**WhiteCore** é um fork do **PocketMine-MP** focado em **multiversão (MultiVersion)**, permitindo que jogadores de diferentes versões do Minecraft Bedrock conectem-se ao mesmo servidor.
+**WhiteCore** is a **PocketMine-MP** fork focused on **MultiVersion**, allowing players running different Minecraft Bedrock versions to connect to the same server.
 
-## Informações
+## Info
 
-| Item | Versão |
-|------|--------|
+| Item | Version |
+|------|---------|
 | Software | WhiteCore |
-| Versão base | 3.28.0 |
-| Fork | 2.3.0 |
+| Base version | 3.28.0 |
+| Fork version | 2.3.0 |
 | Minecraft | 1.26.20 |
-| Protocolo atual | **975** |
-| Protocolos suportados | 110 → 975 (60+ versões) |
+| Current protocol | **975** |
+| Supported versions | 1.2 → 1.21 (continuous) + 1.26 |
 
-## Destaques
+## Highlights
 
-- **MultiVersion completo** — suporte a dezenas de protocolos desde a 1.1.0 (protocolo 110) até a mais recente 1.26.20 (protocolo 975)
-- Baseado no **Submarine** — plataforma multisservidor com balanceamento e segurança de rede
-- Otimizado para performance com Nether e The End habilitados
-- Suporte a resource packs Bedrock com controle de protocolo mínimo
+- **Full MultiVersion** — supports a continuous range from **1.2 to 1.21**, plus the latest **1.26** (protocol 975)
+- Built on **Submarine** — multi-server platform with network balancing and security
+- Performance optimized with Nether and The End enabled
+- Bedrock resource pack support with minimum protocol control
 
-## Requisitos
+## Requirements
 
-- PHP 8.3 ou superior
-- 512 MB+ de RAM
+- PHP 8.3+
+- 512 MB+ RAM
 - Minecraft Bedrock Edition
 
-## Executar
+## Run
 
 ```bash
 ./start.sh
